@@ -1,0 +1,683 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Machine Learning for the Web (ITP/NYU)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-07T16:13:17Z",
+            "owner": "yining1023",
+            "repo": "machine-learning-for-the-web",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Introduction to Computational Media (ITP/NYU)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code course",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-11-23T19:56:13Z",
+                "owner": "ITPNYU",
+                "repo": "ICM-2022-Code",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Media course",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2022-11-23T19:56:42Z",
+                "owner": "ITPNYU",
+                "repo": "ICM-2022-Media",
+                "stars": 1
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Creative Coding and New Media"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials and Blogs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers/Methods"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alias-Free Generative Adversarial Networks (StyleGAN3)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-12T17:04:25Z",
+            "owner": "NVlabs",
+            "repo": "stylegan3",
+            "stars": 6940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training Generative Adversarial Networks with Limited Data (StyleGAN2-ADA)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-10T18:13:37Z",
+            "owner": "NVlabs",
+            "repo": "stylegan2-ada-pytorch",
+            "stars": 4487
+          }
+        }
+      ],
+      "title": "Unconditional Image Synthesis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semantic Image Synthesis with Spatially-Adaptive Normalization (SPADE)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-07T10:52:48Z",
+            "owner": "NVlabs",
+            "repo": "SPADE",
+            "stars": 7714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T16:20:06Z",
+            "owner": "lhoyer",
+            "repo": "MIC",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-10T16:20:36Z",
+            "owner": "lhoyer",
+            "repo": "HRDA",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Conditional Image Synthesis (and inverse problems)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-05-30T19:57:17Z",
+            "owner": "orpatashnik",
+            "repo": "StyleCLIP",
+            "stars": 4120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Designing an Encoder for StyleGAN Image Manipulation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-15T00:35:18Z",
+            "owner": "omertov",
+            "repo": "encoder4editing",
+            "stars": 996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pivotal Tuning for Latent-based Editing of Real Images",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-01T08:59:46Z",
+            "owner": "danielroich",
+            "repo": "PTI",
+            "stars": 929
+          }
+        }
+      ],
+      "title": "GAN inversion (and editing)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐️ Discovering Interpretable GAN Controls (GANspace)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-01-20T21:23:23Z",
+            "owner": "harskish",
+            "repo": "ganspace",
+            "stars": 1794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unsupervised Extraction of StyleGAN Edit Directions (CLIP2StyleGAN)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-26T09:07:10Z",
+            "owner": "RameenAbdal",
+            "repo": "CLIP2StyleGAN",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Latent Space Interpretation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robust Video Matting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-02T16:26:48Z",
+            "owner": "PeterL1n",
+            "repo": "RobustVideoMatting",
+            "stars": 9486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-06T14:28:28Z",
+            "owner": "ZHKKKe",
+            "repo": "MODNet",
+            "stars": 4350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatteFormer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T04:15:46Z",
+            "owner": "webtoon",
+            "repo": "matteformer",
+            "stars": 241
+          }
+        }
+      ],
+      "title": "Image Matting"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PaddleGAN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T15:05:24Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleGAN",
+            "stars": 8045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NVIDIA Imaginaire",
+          "description": "2D Image synthesis library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-29T10:24:50Z",
+            "owner": "NVlabs",
+            "repo": "imaginaire",
+            "stars": 4082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmgeneration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-05T13:15:50Z",
+            "owner": "open-mmlab",
+            "repo": "mmgeneration",
+            "stars": 2011
+          }
+        }
+      ],
+      "title": "Generative Modeling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JAX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:53:47Z",
+            "owner": "jax-ml",
+            "repo": "jax",
+            "stars": 36156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🤗 Diffusers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:02:39Z",
+            "owner": "huggingface",
+            "repo": "diffusers",
+            "stars": 34306
+          }
+        }
+      ],
+      "title": "Deep Learning Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepSpeed (training, inference, compression)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:51:58Z",
+            "owner": "deepspeedai",
+            "repo": "DeepSpeed",
+            "stars": 42927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AITemplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T07:10:39Z",
+            "owner": "facebookincubator",
+            "repo": "AITemplate",
+            "stars": 4726
+          }
+        }
+      ],
+      "title": "Runtimes/Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐️ Stable Diffusion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-18T01:53:49Z",
+            "owner": "CompVis",
+            "repo": "stable-diffusion",
+            "stars": 73302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DALLE 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-11T19:18:10Z",
+            "owner": "lucidrains",
+            "repo": "DALLE2-pytorch",
+            "stars": 11302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imagen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-07T13:00:53Z",
+            "owner": "lucidrains",
+            "repo": "imagen-pytorch",
+            "stars": 8419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parti",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-28T23:02:25Z",
+            "owner": "google-research",
+            "repo": "parti",
+            "stars": 1589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VQGAN+CLIP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-05-10T00:27:28Z",
+            "owner": "EleutherAI",
+            "repo": "vqgan-clip",
+            "stars": 354
+          }
+        }
+      ],
+      "title": "Text-to-Image"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐️ Stable Diffusion Web UI: A user friendly UI for SD with additional features",
+          "description": "to make common workflows easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T07:00:53Z",
+            "owner": "AUTOMATIC1111",
+            "repo": "stable-diffusion-webui",
+            "stars": 164509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dream Textures (Blender)",
+          "description": "Plugin to render textures, reference images, and background with SD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-26T02:23:11Z",
+            "owner": "carson-katri",
+            "repo": "dream-textures",
+            "stars": 8192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSpeed-MII",
+          "description": "Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-30T16:21:45Z",
+            "owner": "deepspeedai",
+            "repo": "DeepSpeed-MII",
+            "stars": 2109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable Diffusion Studio",
+          "description": "Animation focused frontend for SD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-21T19:38:34Z",
+            "owner": "amotile",
+            "repo": "stable-diffusion-studio",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koi (Krita)",
+          "description": "SD plugin for Krita for img2img generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-03-12T14:12:44Z",
+            "owner": "nousr",
+            "repo": "koi",
+            "stars": 440
+          }
+        }
+      ],
+      "title": "Stable Diffusion (SD)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Creative Coding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stanford Online Products dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2019-09-15T04:54:45Z",
+            "owner": "rksltnl",
+            "repo": "Deep-Metric-Learning-CVPR16",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAION-Face",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-01T02:14:39Z",
+            "owner": "FacePerceiver",
+            "repo": "LAION-Face",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LAION Datasets",
+          "description": "Various very large scale image-text pairs datasets (notably used to train the open source Stable Diffusion models).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-11-05T12:14:17Z",
+            "owner": "LAION-AI",
+            "repo": "laion-datasets",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepMind 3d Shapes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-17T20:34:31Z",
+            "owner": "google-deepmind",
+            "repo": "3d-shapes",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Permissively Licensed/Open Access"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CelebAMask-HQ",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-20T04:33:41Z",
+            "owner": "switchablenorms",
+            "repo": "CelebAMask-HQ",
+            "stars": 2319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CelebA-Spoof",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-26T02:20:10Z",
+            "owner": "ZhangYuanhan-AI",
+            "repo": "CelebA-Spoof",
+            "stars": 622
+          }
+        }
+      ],
+      "title": "Faces/People (restricted licenses)"
+    },
+    {
+      "description": "Contributions are welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:28:16.337Z",
+    "original_repository": "jonathandinu/ai4artists",
+    "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
+    "enhanced_repository": "enhansome/enhansome-ai4artists",
+    "enhanced_repository_description": null,
+    "title": "Awesome ai4artists with stars"
+  }
+}
