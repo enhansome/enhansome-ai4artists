@@ -253,7 +253,7 @@
             "last_commit": "2024-04-02T16:26:48Z",
             "owner": "PeterL1n",
             "repo": "RobustVideoMatting",
-            "stars": 9487
+            "stars": 9485
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2024-05-06T14:28:28Z",
             "owner": "ZHKKKe",
             "repo": "MODNet",
-            "stars": 4349
+            "stars": 4350
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2024-07-03T15:05:24Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleGAN",
-            "stars": 8043
+            "stars": 8044
           }
         },
         {
@@ -351,10 +351,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:05:38Z",
+            "last_commit": "2026-08-15T16:38:43Z",
             "owner": "jax-ml",
             "repo": "jax",
-            "stars": 36158
+            "stars": 36161
           }
         },
         {
@@ -365,10 +365,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:56:32Z",
+            "last_commit": "2026-08-15T14:56:08Z",
             "owner": "huggingface",
             "repo": "diffusers",
-            "stars": 34314
+            "stars": 34319
           }
         }
       ],
@@ -385,10 +385,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T03:50:22Z",
+            "last_commit": "2026-08-15T14:25:53Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeed",
-            "stars": 42930
+            "stars": 42939
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2024-06-18T01:53:49Z",
             "owner": "CompVis",
             "repo": "stable-diffusion",
-            "stars": 73300
+            "stars": 73296
           }
         },
         {
@@ -436,7 +436,7 @@
             "last_commit": "2024-05-11T19:18:10Z",
             "owner": "lucidrains",
             "repo": "DALLE2-pytorch",
-            "stars": 11304
+            "stars": 11305
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2024-10-07T13:00:53Z",
             "owner": "lucidrains",
             "repo": "imagen-pytorch",
-            "stars": 8421
+            "stars": 8422
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164513
+            "stars": 164499
           }
         },
         {
@@ -526,7 +526,7 @@
             "last_commit": "2025-06-30T16:21:45Z",
             "owner": "deepspeedai",
             "repo": "DeepSpeed-MII",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -673,7 +673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:25:18.856Z",
+    "last_updated": "2026-08-15T17:47:50.401Z",
     "original_repository": "jonathandinu/ai4artists",
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
     "enhanced_repository": "enhansome/enhansome-ai4artists",
