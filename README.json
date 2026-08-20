@@ -83,7 +83,7 @@
                 "last_commit": "2023-09-12T17:04:25Z",
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942
+                "stars": 6941
               }
             },
             {
@@ -172,7 +172,7 @@
                 "last_commit": "2023-05-30T19:57:17Z",
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4122
+                "stars": 4121
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-07-15T00:35:18Z",
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 996
+                "stars": 997
               }
             },
             {
@@ -319,7 +319,7 @@
                 "last_commit": "2024-07-03T15:05:24Z",
                 "owner": "PaddlePaddle",
                 "repo": "PaddleGAN",
-                "stars": 8044
+                "stars": 8046
               }
             },
             {
@@ -368,10 +368,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:04:00Z",
+                "last_commit": "2026-08-20T17:52:58Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36180
+                "stars": 36185
               }
             },
             {
@@ -383,10 +383,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:30:57Z",
+                "last_commit": "2026-08-20T15:29:27Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34344
+                "stars": 34346
               }
             }
           ],
@@ -405,10 +405,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:54:42Z",
+                "last_commit": "2026-08-20T17:07:55Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42961
+                "stars": 42969
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2026-08-07T07:10:39Z",
                 "owner": "facebookincubator",
                 "repo": "AITemplate",
-                "stars": 4726
+                "stars": 4725
               }
             }
           ],
@@ -445,7 +445,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73309
+                "stars": 73325
               }
             },
             {
@@ -460,7 +460,7 @@
                 "last_commit": "2024-05-11T19:18:10Z",
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11307
+                "stars": 11309
               }
             },
             {
@@ -475,7 +475,7 @@
                 "last_commit": "2024-10-07T13:00:53Z",
                 "owner": "lucidrains",
                 "repo": "imagen-pytorch",
-                "stars": 8422
+                "stars": 8423
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164583
+                "stars": 164595
               }
             },
             {
@@ -542,7 +542,7 @@
                 "last_commit": "2024-08-26T02:23:11Z",
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8192
+                "stars": 8193
               }
             },
             {
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:51:32.281Z",
+    "last_updated": "2026-08-20T17:57:27.221Z",
     "original_repository": "jonathandinu/ai4artists",
     "original_repository_id": 168227723,
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",

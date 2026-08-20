@@ -4,7 +4,7 @@
 
 > Resources at the intersection of AI *AND* Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
-For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,212 | 🐛 6 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,780 | 🐛 84 | 📅 2025-05-26 and <https://github.com/dair-ai>.
+For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,220 | 🐛 7 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,788 | 🐛 84 | 📅 2025-05-26 and <https://github.com/dair-ai>.
 
 ## Contents
 
@@ -121,7 +121,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Soft Diffusion: Score Matching for General Corruptions](https://arxiv.org/abs/2209.05442)
 * [Multi-Concept Customization of Text-to-Image Diffusion](https://www.cs.cmu.edu/~custom-diffusion/): Like DreamBooth but capable of synthesizing multiple concepts.
 * [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://deepimagination.cc/eDiff-I/)
-* [Elucidating the Design Space of Diffusion-Based Generative Models (EDM)](https://github.com/NVlabs/edm) ⭐ 1,992 | 🐛 16 | 🌐 Python | 📅 2024-03-16
+* [Elucidating the Design Space of Diffusion-Based Generative Models (EDM)](https://github.com/NVlabs/edm) ⭐ 1,991 | 🐛 16 | 🌐 Python | 📅 2024-03-16
 * [Tackling the Generative Learning Trilemma with Denoising Diffusion GANs](https://nvlabs.github.io/denoising-diffusion-gan/)
 * [Imagen Video: High Definition Video Generation with Diffusion Models](https://imagen.research.google/video/)
 
@@ -167,7 +167,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Unconditional Image Synthesis
 
-* [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://github.com/NVlabs/stylegan3) ⭐ 6,942 | 🐛 192 | 🌐 Python | 📅 2023-09-12
+* [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://github.com/NVlabs/stylegan3) ⭐ 6,941 | 🐛 192 | 🌐 Python | 📅 2023-09-12
 * [Training Generative Adversarial Networks with Limited Data (StyleGAN2-ADA)](https://github.com/NVlabs/stylegan2-ada-pytorch) ⭐ 4,486 | 🐛 201 | 🌐 Python | 📅 2024-05-10
 * [Sampling Generative Networks](https://arxiv.org/pdf/1609.04468.pdf)
 * [Neural Discrete Representation Learning (VQVAE)](https://arxiv.org/abs/1711.00937)
@@ -199,8 +199,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### GAN inversion (and editing)
 
-* [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,122 | 🐛 64 | 🌐 HTML | 📅 2023-05-30
-* [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing) ⭐ 996 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-07-15
+* [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,121 | 🐛 64 | 🌐 HTML | 📅 2023-05-30
+* [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing) ⭐ 997 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-07-15
 * [Pivotal Tuning for Latent-based Editing of Real Images](https://github.com/danielroich/PTI) ⭐ 929 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2024-08-01
 * [Generative Visual Manipulation on the Natural Image Manifold (iGAN)](https://www.cs.cmu.edu/~junyanz/projects/gvm/)
 * [In-Domain GAN Inversion for Real Image Editing](https://genforce.github.io/idinvert/)
@@ -237,7 +237,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Generative Modeling
 
-* [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) ⭐ 8,044 | 🐛 131 | 🌐 Python | 📅 2024-07-03
+* [PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) ⭐ 8,046 | 🐛 131 | 🌐 Python | 📅 2024-07-03
 * [NVIDIA Imaginaire](https://github.com/NVlabs/imaginaire) ⭐ 4,083 | 🐛 53 | 🌐 Python | 📅 2022-11-29: 2D Image synthesis library
 * [mmgeneration](https://github.com/open-mmlab/mmgeneration) ⭐ 2,012 | 🐛 54 | 🌐 Python | 📅 2023-09-05
 * [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/): The platform for creating and operating metaverse applications
@@ -254,8 +254,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Deep Learning Frameworks
 
-* [JAX](https://github.com/google/jax) ⭐ 36,180 | 🐛 2,590 | 🌐 Python | 📅 2026-08-19
-* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,344 | 🐛 1,373 | 🌐 Python | 📅 2026-08-19
+* [JAX](https://github.com/google/jax) ⭐ 36,185 | 🐛 2,474 | 🌐 Python | 📅 2026-08-20
+* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,346 | 🐛 1,374 | 🌐 Python | 📅 2026-08-20
 * ⭐️ **[PyTorch](https://pytorch.org/)**
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
@@ -265,8 +265,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Runtimes/Deployment
 
-* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 42,961 | 🐛 1,325 | 🌐 Python | 📅 2026-08-19
-* [AITemplate](https://github.com/facebookincubator/AITemplate) ⭐ 4,726 | 🐛 164 | 🌐 Python | 📅 2026-08-07
+* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 42,969 | 🐛 1,322 | 🌐 Python | 📅 2026-08-20
+* [AITemplate](https://github.com/facebookincubator/AITemplate) ⭐ 4,725 | 🐛 164 | 🌐 Python | 📅 2026-08-07
 * [FFCV: an Optimized Data Pipeline for Accelerating ML Training](https://ffcv.io)
 * [ONNX Runtime](https://onnxruntime.ai)
 * [TensorRT](https://developer.nvidia.com/tensorrt)
@@ -276,17 +276,17 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Text-to-Image
 
-* ⭐️ **[Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,309 | 🐛 618 | 🌐 Jupyter Notebook | 📅 2024-06-18**
-* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,307 | 🐛 73 | 🌐 Python | 📅 2024-05-11
-* [Imagen](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,422 | 🐛 103 | 🌐 Python | 📅 2024-10-07
+* ⭐️ **[Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,325 | 🐛 618 | 🌐 Jupyter Notebook | 📅 2024-06-18**
+* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,309 | 🐛 73 | 🌐 Python | 📅 2024-05-11
+* [Imagen](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,423 | 🐛 103 | 🌐 Python | 📅 2024-10-07
 * [Parti](https://github.com/google-research/parti) ⭐ 1,589 | 🐛 6 | 📅 2022-06-28
 * [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks) ⭐ 354 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-05-10
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io): More efficient than diffusion or autoregressive text-to-image models used masked image modeling w/ transformers
 
 ### Stable Diffusion (SD)
 
-* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,583 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 164,583 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
-* [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,192 | 🐛 17 | 🌐 Python | 📅 2024-08-26: Plugin to render textures, reference images, and background with SD.
+* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,595 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 164,595 | 🐛 2,501 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
+* [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,193 | 🐛 17 | 🌐 Python | 📅 2024-08-26: Plugin to render textures, reference images, and background with SD.
 * [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ⭐ 2,111 | 🐛 209 | 🌐 Python | 📅 2025-06-30: Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio) ⭐ 475 | 🐛 15 | 🌐 TypeScript | 📅 2022-10-21: Animation focused frontend for SD.
 * [koi (Krita)](https://github.com/nousr/koi) ⭐ 439 | 🐛 17 | 🌐 HTML | 📅 2023-03-12: SD plugin for [Krita](https://krita.org/en/) for img2img generation.
@@ -300,7 +300,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 * [COLMAP](https://colmap.github.io/index.html)
 * ⭐️ **[nerfstudio](https://docs.nerf.studio/en/latest/index.html)**
-* [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) ⭐ 17,523 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02
+* [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) ⭐ 17,524 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02
 * [NerfAcc](https://www.nerfacc.com/en/latest/index.html)
 
 ### Creative Coding
@@ -456,7 +456,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 
 * [Machine Learning for Art](https://ml4a.net/)
 * [Tools and Resources for AI Art (pharmapsychotic)](https://pharmapsychotic.com/tools.html) - Big list of Google Colab notebooks for generative text-to-image techniques as well as general tools and resources.
-* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,521 | 🐛 284 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
+* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,523 | 🐛 283 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
 
 ## Contributing
 
@@ -464,4 +464,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
