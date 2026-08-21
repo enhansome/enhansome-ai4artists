@@ -83,7 +83,7 @@
                 "last_commit": "2023-09-12T17:04:25Z",
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6941
+                "stars": 6942
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2023-08-07T10:52:48Z",
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7715
+                "stars": 7716
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2024-08-10T16:20:06Z",
                 "owner": "lhoyer",
                 "repo": "MIC",
-                "stars": 295
+                "stars": 294
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2024-04-02T16:26:48Z",
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9490
+                "stars": 9491
               }
             },
             {
@@ -334,7 +334,7 @@
                 "last_commit": "2022-11-29T10:24:50Z",
                 "owner": "NVlabs",
                 "repo": "imaginaire",
-                "stars": 4083
+                "stars": 4082
               }
             },
             {
@@ -368,10 +368,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:52:58Z",
+                "last_commit": "2026-08-21T17:30:04Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36185
+                "stars": 36191
               }
             },
             {
@@ -383,10 +383,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-20T15:29:27Z",
+                "last_commit": "2026-08-21T14:24:24Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34346
+                "stars": 34347
               }
             }
           ],
@@ -405,10 +405,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-20T17:07:55Z",
+                "last_commit": "2026-08-21T17:12:37Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42969
+                "stars": 42974
               }
             },
             {
@@ -423,7 +423,7 @@
                 "last_commit": "2026-08-07T07:10:39Z",
                 "owner": "facebookincubator",
                 "repo": "AITemplate",
-                "stars": 4725
+                "stars": 4724
               }
             }
           ],
@@ -445,7 +445,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73325
+                "stars": 73336
               }
             },
             {
@@ -460,7 +460,7 @@
                 "last_commit": "2024-05-11T19:18:10Z",
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11309
+                "stars": 11307
               }
             },
             {
@@ -527,7 +527,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164595
+                "stars": 164604
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2022-11-05T12:14:17Z",
                 "owner": "LAION-AI",
                 "repo": "laion-datasets",
-                "stars": 256
+                "stars": 257
               }
             },
             {
@@ -682,7 +682,7 @@
                 "last_commit": "2024-06-20T04:33:41Z",
                 "owner": "switchablenorms",
                 "repo": "CelebAMask-HQ",
-                "stars": 2319
+                "stars": 2318
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2021-02-26T02:20:10Z",
                 "owner": "ZhangYuanhan-AI",
                 "repo": "CelebA-Spoof",
-                "stars": 623
+                "stars": 624
               }
             }
           ],
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:57:27.221Z",
+    "last_updated": "2026-08-21T17:57:35.198Z",
     "original_repository": "jonathandinu/ai4artists",
     "original_repository_id": 168227723,
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
