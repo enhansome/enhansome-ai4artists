@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:16:09Z",
+                "last_commit": "2026-08-24T16:59:20Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36209
+                "stars": 36210
               }
             },
             {
@@ -441,10 +441,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:23:17Z",
+                "last_commit": "2026-08-24T14:50:53Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34366
+                "stars": 34369
               }
             }
           ],
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:36:36Z",
+                "last_commit": "2026-08-24T17:32:39Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42985
+                "stars": 42986
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164632
+                "stars": 164636
               }
             },
             {
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:20.708Z",
+    "last_updated": "2026-08-24T17:59:16.830Z",
     "original_repository": "jonathandinu/ai4artists",
     "original_repository_id": 168227723,
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",

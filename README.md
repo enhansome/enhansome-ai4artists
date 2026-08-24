@@ -4,7 +4,7 @@
 
 > Resources at the intersection of AI *AND* Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
-For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,240 | 🐛 7 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,804 | 🐛 84 | 📅 2025-05-26 and <https://github.com/dair-ai>.
+For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,241 | 🐛 7 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,806 | 🐛 84 | 📅 2025-05-26 and <https://github.com/dair-ai>.
 
 ## Contents
 
@@ -254,8 +254,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Deep Learning Frameworks
 
-* [JAX](https://github.com/google/jax) ⭐ 36,209 | 🐛 2,471 | 🌐 Python | 📅 2026-08-24
-* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,366 | 🐛 1,403 | 🌐 Python | 📅 2026-08-24
+* [JAX](https://github.com/google/jax) ⭐ 36,210 | 🐛 2,464 | 🌐 Python | 📅 2026-08-24
+* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,369 | 🐛 1,402 | 🌐 Python | 📅 2026-08-24
 * ⭐️ **[PyTorch](https://pytorch.org/)**
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
@@ -265,7 +265,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Runtimes/Deployment
 
-* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 42,985 | 🐛 1,320 | 🌐 Python | 📅 2026-08-24
+* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 42,986 | 🐛 1,322 | 🌐 Python | 📅 2026-08-24
 * [AITemplate](https://github.com/facebookincubator/AITemplate) ⭐ 4,724 | 🐛 164 | 🌐 Python | 📅 2026-08-07
 * [FFCV: an Optimized Data Pipeline for Accelerating ML Training](https://ffcv.io)
 * [ONNX Runtime](https://onnxruntime.ai)
@@ -285,7 +285,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Stable Diffusion (SD)
 
-* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,632 | 🐛 2,503 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 164,632 | 🐛 2,503 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
+* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,636 | 🐛 2,503 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 164,636 | 🐛 2,503 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
 * [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,195 | 🐛 17 | 🌐 Python | 📅 2024-08-26: Plugin to render textures, reference images, and background with SD.
 * [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ⭐ 2,111 | 🐛 209 | 🌐 Python | 📅 2025-06-30: Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio) ⭐ 475 | 🐛 15 | 🌐 TypeScript | 📅 2022-10-21: Animation focused frontend for SD.
@@ -456,7 +456,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 
 * [Machine Learning for Art](https://ml4a.net/)
 * [Tools and Resources for AI Art (pharmapsychotic)](https://pharmapsychotic.com/tools.html) - Big list of Google Colab notebooks for generative text-to-image techniques as well as general tools and resources.
-* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,526 | 🐛 289 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
+* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,527 | 🐛 289 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
 
 ## Contributing
 
