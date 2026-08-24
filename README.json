@@ -72,6 +72,64 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Generative Examples in Processing",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 116525849,
+                    "language": "Processing",
+                    "last_commit": "2018-01-11T06:40:24Z",
+                    "owner": "digitalcoleman",
+                    "repo": "generativeExamples",
+                    "stars": 64
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Generative Art"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials and Blogs"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Elucidating the Design Space of Diffusion-Based Generative Models (EDM)",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 548798215,
+                    "language": "Python",
+                    "last_commit": "2024-03-16T09:02:18Z",
+                    "owner": "NVlabs",
+                    "repo": "edm",
+                    "stars": 1991
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Diffusion models (and text-to-image)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Papers/Methods"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "Alias-Free Generative Adversarial Networks (StyleGAN3)",
               "description": null,
@@ -98,7 +156,7 @@
                 "last_commit": "2024-05-10T18:13:37Z",
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada-pytorch",
-                "stars": 4486
+                "stars": 4485
               }
             }
           ],
@@ -276,7 +334,7 @@
                 "last_commit": "2024-05-06T14:28:28Z",
                 "owner": "ZHKKKe",
                 "repo": "MODNet",
-                "stars": 4353
+                "stars": 4354
               }
             },
             {
@@ -368,10 +426,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:45:28Z",
+                "last_commit": "2026-08-24T13:16:09Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36207
+                "stars": 36209
               }
             },
             {
@@ -383,10 +441,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-22T19:04:29Z",
+                "last_commit": "2026-08-24T09:23:17Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34357
+                "stars": 34366
               }
             }
           ],
@@ -405,10 +463,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-23T17:31:03Z",
+                "last_commit": "2026-08-24T10:36:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42980
+                "stars": 42985
               }
             },
             {
@@ -445,7 +503,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73338
+                "stars": 73344
               }
             },
             {
@@ -517,8 +575,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "⭐️ Stable Diffusion Web UI: A user friendly UI for SD with additional features",
-              "description": "to make common workflows easy.",
+              "title": "⭐️ Stable Diffusion Web UI",
+              "description": "A user friendly UI for SD with additional features to make common workflows easy.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -527,7 +585,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164621
+                "stars": 164632
               }
             },
             {
@@ -594,6 +652,28 @@
           "description": null,
           "node_type": "group",
           "title": "Stable Diffusion (SD)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NVlabs/instant-ngp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444886996,
+                "language": "Cuda",
+                "last_commit": "2026-02-02T12:32:34Z",
+                "owner": "NVlabs",
+                "repo": "instant-ngp",
+                "stars": 17530
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neural Radiance Fields"
         }
       ],
       "title": "Tools"
@@ -682,7 +762,7 @@
                 "last_commit": "2024-06-20T04:33:41Z",
                 "owner": "switchablenorms",
                 "repo": "CelebAMask-HQ",
-                "stars": 2319
+                "stars": 2320
               }
             },
             {
@@ -704,13 +784,35 @@
           "description": null,
           "node_type": "group",
           "title": "Faces/People (restricted licenses)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Brutus Light Field",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518485792,
+                "language": null,
+                "last_commit": "2022-12-30T02:53:21Z",
+                "owner": "nathan-fairchild",
+                "repo": "Brutus-Light-Fields",
+                "stars": 39
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
       "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:47:32.157Z",
+    "last_updated": "2026-08-24T14:26:20.708Z",
     "original_repository": "jonathandinu/ai4artists",
     "original_repository_id": 168227723,
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
