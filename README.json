@@ -141,7 +141,7 @@
                 "last_commit": "2023-09-12T17:04:25Z",
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942
+                "stars": 6943
               }
             },
             {
@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:59:20Z",
+                "last_commit": "2026-08-25T05:33:32Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36210
+                "stars": 36212
               }
             },
             {
@@ -441,10 +441,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:50:53Z",
+                "last_commit": "2026-08-25T03:56:19Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34369
+                "stars": 34373
               }
             }
           ],
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:32:39Z",
+                "last_commit": "2026-08-25T03:19:36Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42986
+                "stars": 42992
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73344
+                "stars": 73345
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164636
+                "stars": 164644
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2024-08-26T02:23:11Z",
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8195
+                "stars": 8194
               }
             },
             {
@@ -667,7 +667,7 @@
                 "last_commit": "2026-02-02T12:32:34Z",
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17530
+                "stars": 17531
               }
             }
           ],
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:59:16.830Z",
+    "last_updated": "2026-08-25T06:19:10.730Z",
     "original_repository": "jonathandinu/ai4artists",
     "original_repository_id": 168227723,
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
