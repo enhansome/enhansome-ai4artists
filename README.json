@@ -156,7 +156,7 @@
                 "last_commit": "2024-05-10T18:13:37Z",
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada-pytorch",
-                "stars": 4485
+                "stars": 4487
               }
             }
           ],
@@ -193,7 +193,7 @@
                 "last_commit": "2024-08-10T16:20:06Z",
                 "owner": "lhoyer",
                 "repo": "MIC",
-                "stars": 294
+                "stars": 295
               }
             },
             {
@@ -245,7 +245,7 @@
                 "last_commit": "2023-07-15T00:35:18Z",
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 997
+                "stars": 998
               }
             },
             {
@@ -319,7 +319,7 @@
                 "last_commit": "2024-04-02T16:26:48Z",
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9495
+                "stars": 9500
               }
             },
             {
@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:55:30Z",
+                "last_commit": "2026-08-26T19:21:06Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36216
+                "stars": 36215
               }
             },
             {
@@ -441,10 +441,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:27:20Z",
+                "last_commit": "2026-08-26T12:30:39Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34378
+                "stars": 34384
               }
             }
           ],
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-25T14:34:22Z",
+                "last_commit": "2026-08-26T15:45:41Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 42996
+                "stars": 43003
               }
             },
             {
@@ -533,7 +533,7 @@
                 "last_commit": "2024-10-07T13:00:53Z",
                 "owner": "lucidrains",
                 "repo": "imagen-pytorch",
-                "stars": 8423
+                "stars": 8424
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164655
+                "stars": 164672
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2024-08-26T02:23:11Z",
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8194
+                "stars": 8195
               }
             },
             {
@@ -667,7 +667,7 @@
                 "last_commit": "2026-02-02T12:32:34Z",
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17532
+                "stars": 17535
               }
             }
           ],
@@ -799,7 +799,7 @@
                 "last_commit": "2022-12-30T02:53:21Z",
                 "owner": "nathan-fairchild",
                 "repo": "Brutus-Light-Fields",
-                "stars": 39
+                "stars": 40
               }
             }
           ],
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:57:30.544Z",
+    "last_updated": "2026-08-26T19:24:39.602Z",
     "original_repository": "jonathandinu/ai4artists",
     "original_repository_id": 168227723,
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
