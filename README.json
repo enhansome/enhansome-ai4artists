@@ -426,10 +426,10 @@
                 "archived": false,
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-26T19:21:06Z",
+                "last_commit": "2026-08-27T11:15:12Z",
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36215
+                "stars": 36216
               }
             },
             {
@@ -441,10 +441,10 @@
                 "archived": false,
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:30:39Z",
+                "last_commit": "2026-08-27T11:06:41Z",
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34384
+                "stars": 34388
               }
             }
           ],
@@ -463,10 +463,10 @@
                 "archived": false,
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-26T15:45:41Z",
+                "last_commit": "2026-08-27T10:29:41Z",
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43003
+                "stars": 43005
               }
             },
             {
@@ -503,7 +503,7 @@
                 "last_commit": "2024-06-18T01:53:49Z",
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73346
+                "stars": 73348
               }
             },
             {
@@ -585,7 +585,7 @@
                 "last_commit": "2026-03-02T07:00:53Z",
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164672
+                "stars": 164679
               }
             },
             {
@@ -812,9 +812,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:24:39.602Z",
-    "original_repository": "jonathandinu/ai4artists",
-    "original_repository_id": 168227723,
+    "last_updated": "2026-08-27T11:20:36.610Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 168227723,
+      "language": null,
+      "last_commit": "2024-06-21T19:24:41Z",
+      "owner": "jonathandinu",
+      "repo": "ai4artists",
+      "stars": 366
+    },
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
     "enhanced_repository": "enhansome/enhansome-ai4artists",
     "enhanced_repository_description": null,
