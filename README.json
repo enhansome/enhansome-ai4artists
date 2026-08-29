@@ -14,12 +14,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for the \"Machine Learning for the Web\" class at ITP, NYU",
+                    "homepage": null,
                     "id": 147033719,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-04-07T16:13:17Z",
+                    "open_issues": 3,
                     "owner": "yining1023",
                     "repo": "machine-learning-for-the-web",
-                    "stars": 417
+                    "stars": 417,
+                    "topics": [
+                      "machine-learning",
+                      "neural-network",
+                      "pix2pix",
+                      "style-transfer",
+                      "teachable-machine"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:06:19.583Z"
                 },
@@ -35,12 +46,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Syllabus for Introduction to Computational Media: Code",
+                        "homepage": null,
                         "id": 520542069,
                         "language": null,
+                        "license": null,
                         "last_commit": "2022-11-23T19:56:13Z",
+                        "open_issues": 0,
                         "owner": "ITPNYU",
                         "repo": "ICM-2022-Code",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:06:19.583Z"
                     },
@@ -51,12 +67,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Syllabus for Introduction to Computational Media: Media",
+                        "homepage": null,
                         "id": 520954580,
                         "language": null,
+                        "license": null,
                         "last_commit": "2022-11-23T19:56:42Z",
+                        "open_issues": 0,
                         "owner": "ITPNYU",
                         "repo": "ICM-2022-Media",
-                        "stars": 1
+                        "stars": 1,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:06:19.583Z"
                     }
@@ -83,12 +104,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 116525849,
                     "language": "Processing",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-01-11T06:40:24Z",
+                    "open_issues": 0,
                     "owner": "digitalcoleman",
                     "repo": "generativeExamples",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:19.583Z"
                 }
@@ -113,12 +139,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Elucidating the Design Space of Diffusion-Based Generative Models (EDM)",
+                    "homepage": null,
                     "id": 548798215,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-16T09:02:18Z",
+                    "open_issues": 16,
                     "owner": "NVlabs",
                     "repo": "edm",
-                    "stars": 1991
+                    "stars": 1991,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:19.583Z"
                 }
@@ -141,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of StyleGAN3",
+                "homepage": null,
                 "id": 414545335,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-12T17:04:25Z",
+                "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942
+                "stars": 6942,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -157,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StyleGAN2-ADA - Official PyTorch implementation",
+                "homepage": "https://arxiv.org/abs/2006.06676",
                 "id": 329045912,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-10T18:13:37Z",
+                "open_issues": 201,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada-pytorch",
-                "stars": 4487
+                "stars": 4487,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -180,12 +221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic Image Synthesis with SPADE",
+                "homepage": "https://nvlabs.github.io/SPADE/",
                 "id": 175539152,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-07T10:52:48Z",
+                "open_issues": 100,
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7717
+                "stars": 7717,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -196,12 +242,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR23] Official Implementation of MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation",
+                "homepage": null,
                 "id": 571533646,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-10T16:20:06Z",
+                "open_issues": 23,
                 "owner": "lhoyer",
                 "repo": "MIC",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -212,12 +263,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV22] Official Implementation of HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation",
+                "homepage": null,
                 "id": 483967267,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-10T16:20:36Z",
+                "open_issues": 5,
                 "owner": "lhoyer",
                 "repo": "HRDA",
-                "stars": 268
+                "stars": 268,
+                "topics": [
+                  "attention",
+                  "high-resolution",
+                  "multi-resolution",
+                  "semantic-segmentation",
+                  "transformer",
+                  "unsupervised-domain-adaptation"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -235,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery\" (ICCV 2021 Oral)",
+                "homepage": null,
                 "id": 338780080,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-05-30T19:57:17Z",
+                "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4121
+                "stars": 4121,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -251,12 +319,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Designing an Encoder for StyleGAN Image Manipulation\"  (SIGGRAPH 2021) https://arxiv.org/abs/2102.02766",
+                "homepage": null,
                 "id": 335983292,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-07-15T00:35:18Z",
+                "open_issues": 28,
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 998
+                "stars": 998,
+                "topics": [
+                  "encoder",
+                  "siggraph2021",
+                  "stylegan",
+                  "stylegan-encoder",
+                  "stylegan-image-manipulation"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -267,12 +346,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation for \"Pivotal Tuning for Latent-based editing of Real Images\" (ACM TOG 2022) https://arxiv.org/abs/2106.05744",
+                "homepage": null,
                 "id": 374950504,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-01T08:59:46Z",
+                "open_issues": 22,
                 "owner": "danielroich",
                 "repo": "PTI",
-                "stars": 929
+                "stars": 929,
+                "topics": [
+                  "gan-inversion",
+                  "generative-adversarial-network",
+                  "image-editing",
+                  "stylegan",
+                  "stylegan2-ada-pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -290,12 +380,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discovering Interpretable GAN Controls [NeurIPS 2020]",
+                "homepage": null,
                 "id": 252421215,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-20T21:23:23Z",
+                "open_issues": 29,
                 "owner": "harskish",
                 "repo": "ganspace",
-                "stars": 1794
+                "stars": 1794,
+                "topics": [
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-generation",
+                  "interactive-visualizations",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -306,12 +408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLIP2StyleGAN: Unsupervised Extraction of StyleGAN Edit Directions (SIGGRAPH 2022)",
+                "homepage": null,
                 "id": 487954562,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-26T09:07:10Z",
+                "open_issues": 6,
                 "owner": "RameenAbdal",
                 "repo": "CLIP2StyleGAN",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -329,12 +436,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+                "homepage": "https://peterl1n.github.io/RobustVideoMatting/",
                 "id": 401484223,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-02T16:26:48Z",
+                "open_issues": 123,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9502
+                "stars": 9505,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "matting"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -345,12 +463,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Trimap-Free Portrait Matting Solution in Real Time [AAAI 2022]",
+                "homepage": null,
                 "id": 315312341,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-06T14:28:28Z",
+                "open_issues": 71,
                 "owner": "ZHKKKe",
                 "repo": "MODNet",
-                "stars": 4356
+                "stars": 4356,
+                "topics": [
+                  "portrait-matting"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -361,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 473007783,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-03T04:15:46Z",
+                "open_issues": 15,
                 "owner": "webtoon",
                 "repo": "matteformer",
-                "stars": 241
+                "stars": 241,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -390,12 +520,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.",
+                "homepage": null,
                 "id": 273214029,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-03T15:05:24Z",
+                "open_issues": 131,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleGAN",
-                "stars": 8047
+                "stars": 8047,
+                "topics": [
+                  "animeganv2",
+                  "basicvsrplusplus",
+                  "cyclegan",
+                  "edvr",
+                  "first-order-motion-model",
+                  "gan",
+                  "gpen",
+                  "image-editing",
+                  "image-generation",
+                  "motion-transfer",
+                  "photo2cartoon",
+                  "pix2pix",
+                  "psgan",
+                  "realsr",
+                  "resolution",
+                  "stylegan2",
+                  "super-resolution",
+                  "wav2lip"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -406,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA's Deep Imagination Team's PyTorch Library",
+                "homepage": null,
                 "id": 279729856,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-29T10:24:50Z",
+                "open_issues": 53,
                 "owner": "NVlabs",
                 "repo": "imaginaire",
-                "stars": 4082
+                "stars": 4082,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -422,12 +581,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV. ",
+                "homepage": "https://mmgeneration.readthedocs.io/en/latest/",
                 "id": 357891182,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-05T13:15:50Z",
+                "open_issues": 54,
                 "owner": "open-mmlab",
                 "repo": "mmgeneration",
-                "stars": 2012
+                "stars": 2012,
+                "topics": [
+                  "diffusion-models",
+                  "gan",
+                  "generative",
+                  "generative-adversarial-network",
+                  "mmcv",
+                  "openmmlab",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -445,12 +617,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+                "homepage": "https://docs.jax.dev",
                 "id": 154739597,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:42:43Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:22:28Z",
+                "open_issues": 2492,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36222
+                "stars": 36222,
+                "topics": [
+                  "jax"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -461,12 +640,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+                "homepage": "https://huggingface.co/docs/diffusers",
                 "id": 498011141,
                 "language": "Python",
-                "last_commit": "2026-08-28T23:39:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:16:38Z",
+                "open_issues": 1397,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34402
+                "stars": 34403,
+                "topics": [
+                  "deep-learning",
+                  "diffusion",
+                  "flux",
+                  "image-generation",
+                  "image2image",
+                  "image2video",
+                  "latent-diffusion-models",
+                  "pytorch",
+                  "qwen-image",
+                  "score-based-generative-modeling",
+                  "stable-diffusion",
+                  "stable-diffusion-diffusers",
+                  "text2image",
+                  "text2video",
+                  "video2video"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -484,12 +684,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+                "homepage": "https://www.deepspeed.ai/",
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:39:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:37:33Z",
+                "open_issues": 1329,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43019
+                "stars": 43020,
+                "topics": [
+                  "billion-parameters",
+                  "compression",
+                  "data-parallelism",
+                  "deep-learning",
+                  "gpu",
+                  "inference",
+                  "machine-learning",
+                  "mixture-of-experts",
+                  "model-parallelism",
+                  "pipeline-parallelism",
+                  "pytorch",
+                  "trillion-parameters",
+                  "zero"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -500,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+                "homepage": null,
                 "id": 514321895,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-07T07:10:39Z",
+                "open_issues": 163,
                 "owner": "facebookincubator",
                 "repo": "AITemplate",
-                "stars": 4725
+                "stars": 4725,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -523,12 +747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A latent text-to-image diffusion model",
+                "homepage": "https://ommer-lab.com/research/latent-diffusion-models/",
                 "id": 523379232,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-18T01:53:49Z",
+                "open_issues": 618,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73356
+                "stars": 73356,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -539,12 +768,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch",
+                "homepage": null,
                 "id": 478823173,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-11T19:18:10Z",
+                "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11306
+                "stars": 11306,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "text-to-image"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -555,12 +793,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+                "homepage": null,
                 "id": 495587598,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-07T13:00:53Z",
+                "open_issues": 103,
                 "owner": "lucidrains",
                 "repo": "imagen-pytorch",
-                "stars": 8424
+                "stars": 8425,
+                "topics": [
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "imagination-machine",
+                  "text-to-image",
+                  "text-to-video"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -571,12 +820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 504024171,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-28T23:02:25Z",
+                "open_issues": 6,
                 "owner": "google-research",
                 "repo": "parti",
-                "stars": 1589
+                "stars": 1589,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -587,12 +841,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 394305639,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-05-10T00:27:28Z",
+                "open_issues": 7,
                 "owner": "EleutherAI",
                 "repo": "vqgan-clip",
-                "stars": 354
+                "stars": 354,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -610,12 +869,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable Diffusion web UI",
+                "homepage": null,
                 "id": 527591471,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T07:00:53Z",
+                "open_issues": 2501,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164708
+                "stars": 164711,
+                "topics": [
+                  "ai",
+                  "ai-art",
+                  "deep-learning",
+                  "diffusion",
+                  "gradio",
+                  "image-generation",
+                  "image2image",
+                  "img2img",
+                  "pytorch",
+                  "stable-diffusion",
+                  "text2image",
+                  "torch",
+                  "txt2img",
+                  "unstable",
+                  "upscaling",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -626,12 +907,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stable Diffusion built-in to Blender",
+                "homepage": null,
                 "id": 534330590,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-26T02:23:11Z",
+                "open_issues": 17,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8196
+                "stars": 8196,
+                "topics": [
+                  "ai",
+                  "blender",
+                  "blender-addon",
+                  "image-generation",
+                  "stable-diffusion"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -642,12 +934,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.",
+                "homepage": null,
                 "id": 473378688,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-30T16:21:45Z",
+                "open_issues": 209,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed-MII",
-                "stars": 2111
+                "stars": 2111,
+                "topics": [
+                  "deep-learning",
+                  "inference",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -658,12 +959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " An animation focused workflow frontend for Stable Diffusion",
+                "homepage": null,
                 "id": 547848931,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-10-21T19:38:34Z",
+                "open_issues": 15,
                 "owner": "amotile",
                 "repo": "stable-diffusion-studio",
-                "stars": 475
+                "stars": 475,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -674,12 +980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plug-in for Krita that enables the use of AI models for img2img generation.",
+                "homepage": null,
                 "id": 530483274,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-03-12T14:12:44Z",
+                "open_issues": 17,
                 "owner": "nousr",
                 "repo": "koi",
-                "stars": 439
+                "stars": 439,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -697,12 +1008,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+                "homepage": "https://nvlabs.github.io/instant-ngp",
                 "id": 444886996,
                 "language": "Cuda",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-02T12:32:34Z",
+                "open_issues": 503,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17536
+                "stars": 17536,
+                "topics": [
+                  "3d-reconstruction",
+                  "computer-graphics",
+                  "computer-vision",
+                  "cuda",
+                  "function-approximation",
+                  "machine-learning",
+                  "nerf",
+                  "neural-network",
+                  "real-time",
+                  "real-time-rendering",
+                  "realtime",
+                  "signed-distance-functions"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -726,12 +1055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main repository for Deep Metric Learning via Lifted Structured Feature Embedding",
+                "homepage": null,
                 "id": 53638410,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2019-09-15T04:54:45Z",
+                "open_issues": 4,
                 "owner": "rksltnl",
                 "repo": "Deep-Metric-Learning-CVPR16",
-                "stars": 347
+                "stars": 347,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -742,12 +1076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The human face subset of LAION-400M for large-scale face pretraining.",
+                "homepage": null,
                 "id": 505715333,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-01T02:14:39Z",
+                "open_issues": 5,
                 "owner": "FacePerceiver",
                 "repo": "LAION-Face",
-                "stars": 320
+                "stars": 320,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -758,12 +1097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Description and pointers of laion datasets",
+                "homepage": "https://projects.laion.ai/laion-datasets",
                 "id": 494923013,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2022-11-05T12:14:17Z",
+                "open_issues": 8,
                 "owner": "LAION-AI",
                 "repo": "laion-datasets",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -774,12 +1118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. \"Disentangling by Factorising.\" In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.",
+                "homepage": null,
                 "id": 165650466,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-17T20:34:31Z",
+                "open_issues": 3,
                 "owner": "google-deepmind",
                 "repo": "3d-shapes",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -797,12 +1146,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A large-scale face dataset for face parsing, recognition, generation and editing.",
+                "homepage": null,
                 "id": 178800521,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-20T04:33:41Z",
+                "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "CelebAMask-HQ",
-                "stars": 2320
+                "stars": 2320,
+                "topics": [
+                  "celeba",
+                  "face-generation",
+                  "face-recognition",
+                  "face-segmentation",
+                  "generative-adversarial-network"
+                ]
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             },
@@ -813,12 +1173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2020] A Large-Scale Face Anti-Spoofing Dataset",
+                "homepage": null,
                 "id": 277450167,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-26T02:20:10Z",
+                "open_issues": 6,
                 "owner": "ZhangYuanhan-AI",
                 "repo": "CelebA-Spoof",
-                "stars": 626
+                "stars": 626,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -836,12 +1201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 518485792,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-30T02:53:21Z",
+                "open_issues": 1,
                 "owner": "nathan-fairchild",
                 "repo": "Brutus-Light-Fields",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
             }
@@ -855,15 +1225,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:06:19.583Z",
+    "last_updated": "2026-08-29T04:50:26.889Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of AI Art courses, tools, libraries, people, and places.",
+      "homepage": null,
       "id": 168227723,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-06-21T19:24:41Z",
+      "open_issues": 3,
       "owner": "jonathandinu",
       "repo": "ai4artists",
-      "stars": 366
+      "stars": 366,
+      "topics": [
+        "ai-art",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "creative-coding",
+        "deep-learning",
+        "generative-art",
+        "generative-models",
+        "neural-networks",
+        "pytorch",
+        "tensorflow",
+        "text-to-image"
+      ]
     },
     "original_repository_sha": "ca2043ff13910ee488fb7d7b490eed8ce2b4408a",
     "enhanced_repository": "enhansome/enhansome-ai4artists",
