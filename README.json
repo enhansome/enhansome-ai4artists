@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:22:28Z",
-                "open_issues": 2492,
+                "last_commit": "2026-08-29T08:05:35Z",
+                "open_issues": 2493,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36222,
+                "stars": 36225,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:16:38Z",
-                "open_issues": 1397,
+                "last_commit": "2026-08-29T17:09:50Z",
+                "open_issues": 1399,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34403,
+                "stars": 34402,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T03:37:33Z",
-                "open_issues": 1329,
+                "last_commit": "2026-08-29T17:55:00Z",
+                "open_issues": 1339,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43020,
+                "stars": 43019,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -777,7 +777,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11306,
+                "stars": 11305,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -878,7 +878,7 @@
                 "open_issues": 2501,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164711,
+                "stars": 164721,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 17,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8196,
+                "stars": 8197,
                 "topics": [
                   "ai",
                   "blender",
@@ -1017,7 +1017,7 @@
                 "open_issues": 503,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17536,
+                "stars": 17538,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1182,7 +1182,7 @@
                 "open_issues": 6,
                 "owner": "ZhangYuanhan-AI",
                 "repo": "CelebA-Spoof",
-                "stars": 626,
+                "stars": 627,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:50:26.889Z",
+    "last_updated": "2026-08-29T19:56:09.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
