@@ -445,7 +445,7 @@
                 "open_issues": 123,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9505,
+                "stars": 9504,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -529,7 +529,7 @@
                 "open_issues": 131,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleGAN",
-                "stars": 8047,
+                "stars": 8046,
                 "topics": [
                   "animeganv2",
                   "basicvsrplusplus",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T08:05:35Z",
+                "last_commit": "2026-08-30T17:24:10Z",
                 "open_issues": 2493,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36225,
+                "stars": 36228,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T17:09:50Z",
-                "open_issues": 1399,
+                "last_commit": "2026-08-30T14:45:47Z",
+                "open_issues": 1402,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34402,
+                "stars": 34407,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T17:55:00Z",
-                "open_issues": 1339,
+                "last_commit": "2026-08-30T16:25:59Z",
+                "open_issues": 1346,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43019,
+                "stars": 43028,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 618,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73356,
+                "stars": 73361,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -875,10 +875,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T07:00:53Z",
-                "open_issues": 2501,
+                "open_issues": 2503,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164721,
+                "stars": 164743,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 17,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8197,
+                "stars": 8198,
                 "topics": [
                   "ai",
                   "blender",
@@ -1017,7 +1017,7 @@
                 "open_issues": 503,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17538,
+                "stars": 17539,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:56:09.432Z",
+    "last_updated": "2026-08-30T19:58:35.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
@@ -1237,7 +1237,7 @@
       "open_issues": 3,
       "owner": "jonathandinu",
       "repo": "ai4artists",
-      "stars": 366,
+      "stars": 364,
       "topics": [
         "ai-art",
         "artificial-intelligence",
