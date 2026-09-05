@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:09:34Z",
-                "open_issues": 2518,
+                "last_commit": "2026-09-05T14:54:11Z",
+                "open_issues": 2516,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36254,
+                "stars": 36256,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T11:49:37Z",
-                "open_issues": 1396,
+                "last_commit": "2026-09-05T06:16:54Z",
+                "open_issues": 1403,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34444,
+                "stars": 34449,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,8 +689,8 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T01:01:05Z",
-                "open_issues": 1360,
+                "last_commit": "2026-09-05T09:30:18Z",
+                "open_issues": 1364,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
                 "stars": 43064,
@@ -756,7 +756,7 @@
                 "open_issues": 618,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73373,
+                "stars": 73370,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -878,7 +878,7 @@
                 "open_issues": 2504,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164806,
+                "stars": 164823,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -1017,7 +1017,7 @@
                 "open_issues": 503,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17543,
+                "stars": 17541,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:47:54.895Z",
+    "last_updated": "2026-09-05T19:19:14.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
