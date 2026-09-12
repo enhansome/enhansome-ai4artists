@@ -181,7 +181,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942,
+                "stars": 6943,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -230,7 +230,7 @@
                 "open_issues": 100,
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7717,
+                "stars": 7716,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -445,7 +445,7 @@
                 "open_issues": 123,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9518,
+                "stars": 9519,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T19:50:26Z",
-                "open_issues": 2559,
+                "last_commit": "2026-09-12T15:16:09Z",
+                "open_issues": 2552,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36294,
+                "stars": 36297,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T19:29:44Z",
-                "open_issues": 1412,
+                "last_commit": "2026-09-12T02:04:53Z",
+                "open_issues": 1417,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34497,
+                "stars": 34501,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T15:07:32Z",
-                "open_issues": 1397,
+                "last_commit": "2026-09-12T05:06:02Z",
+                "open_issues": 1401,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43096,
+                "stars": 43099,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 619,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73410,
+                "stars": 73417,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -777,7 +777,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11301,
+                "stars": 11300,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -878,7 +878,7 @@
                 "open_issues": 2506,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 164896,
+                "stars": 164906,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:57:27.281Z",
+    "last_updated": "2026-09-12T19:34:52.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
