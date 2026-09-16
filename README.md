@@ -4,7 +4,7 @@
 
 > Resources at the intersection of AI *AND* Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
-For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,322 | 🐛 12 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,921 | 🐛 85 | 📅 2025-05-26 and <https://github.com/dair-ai>.
+For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,328 | 🐛 12 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,928 | 🐛 85 | 📅 2025-05-26 and <https://github.com/dair-ai>.
 
 ## Contents
 
@@ -182,7 +182,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Conditional Image Synthesis (and inverse problems)
 
-* [Semantic Image Synthesis with Spatially-Adaptive Normalization (SPADE)](https://github.com/NVlabs/SPADE) ⭐ 7,717 | 🐛 100 | 🌐 Python | 📅 2023-08-07
+* [Semantic Image Synthesis with Spatially-Adaptive Normalization (SPADE)](https://github.com/NVlabs/SPADE) ⭐ 7,718 | 🐛 100 | 🌐 Python | 📅 2023-08-07
 * [MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation](https://github.com/lhoyer/MIC) ⭐ 295 | 🐛 23 | 🌐 Python | 📅 2024-08-10
 * [HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation](https://github.com/lhoyer/HRDA) ⭐ 268 | 🐛 5 | 🌐 Python | 📅 2024-08-10
 * [Image-to-Image Translation with Conditional Adversarial Nets (pix2pix)](https://phillipi.github.io/pix2pix/)
@@ -223,7 +223,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Image Matting
 
-* [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) ⭐ 9,524 | 🐛 124 | 🌐 Python | 📅 2024-04-02
+* [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) ⭐ 9,523 | 🐛 124 | 🌐 Python | 📅 2024-04-02
 * [MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition](https://github.com/ZHKKKe/MODNet) ⭐ 4,365 | 🐛 71 | 🌐 Python | 📅 2024-05-06
 * [MatteFormer](https://github.com/webtoon/matteformer) ⭐ 241 | 🐛 15 | 🌐 Python | 📅 2023-10-03
 * [Deep Image Matting](https://arxiv.org/pdf/1703.03872v3.pdf)
@@ -254,8 +254,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Deep Learning Frameworks
 
-* [JAX](https://github.com/google/jax) ⭐ 36,305 | 🐛 2,559 | 🌐 Python | 📅 2026-09-15
-* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,527 | 🐛 1,419 | 🌐 Python | 📅 2026-09-15
+* [JAX](https://github.com/google/jax) ⭐ 36,307 | 🐛 2,568 | 🌐 Python | 📅 2026-09-16
+* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,532 | 🐛 1,423 | 🌐 Python | 📅 2026-09-16
 * ⭐️ **[PyTorch](https://pytorch.org/)**
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
@@ -265,7 +265,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Runtimes/Deployment
 
-* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 43,119 | 🐛 1,408 | 🌐 Python | 📅 2026-09-15
+* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 43,125 | 🐛 1,429 | 🌐 Python | 📅 2026-09-16
 * [AITemplate](https://github.com/facebookincubator/AITemplate) ⭐ 4,725 | 🐛 163 | 🌐 Python | 📅 2026-08-07
 * [FFCV: an Optimized Data Pipeline for Accelerating ML Training](https://ffcv.io)
 * [ONNX Runtime](https://onnxruntime.ai)
@@ -276,17 +276,17 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Text-to-Image
 
-* ⭐️ **[Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,434 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18**
-* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,299 | 🐛 73 | 🌐 Python | 📅 2024-05-11
-* [Imagen](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,423 | 🐛 104 | 🌐 Python | 📅 2024-10-07
+* ⭐️ **[Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,435 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18**
+* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,300 | 🐛 73 | 🌐 Python | 📅 2024-05-11
+* [Imagen](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,425 | 🐛 104 | 🌐 Python | 📅 2024-10-07
 * [Parti](https://github.com/google-research/parti) ⭐ 1,588 | 🐛 6 | 📅 2022-06-28
 * [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks) ⭐ 354 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-05-10
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io): More efficient than diffusion or autoregressive text-to-image models used masked image modeling w/ transformers
 
 ### Stable Diffusion (SD)
 
-* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,953 | 🐛 2,506 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 164,953 | 🐛 2,506 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
-* [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,202 | 🐛 15 | 🌐 Python | 📅 2026-09-15: Plugin to render textures, reference images, and background with SD.
+* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 164,970 | 🐛 2,506 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 164,970 | 🐛 2,506 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
+* [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,203 | 🐛 15 | 🌐 Python | 📅 2026-09-15: Plugin to render textures, reference images, and background with SD.
 * [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ⭐ 2,113 | 🐛 209 | 🌐 Python | 📅 2025-06-30: Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio) ⭐ 475 | 🐛 15 | 🌐 TypeScript | 📅 2022-10-21: Animation focused frontend for SD.
 * [koi (Krita)](https://github.com/nousr/koi) ⭐ 439 | 🐛 17 | 🌐 HTML | 📅 2023-03-12: SD plugin for [Krita](https://krita.org/en/) for img2img generation.
@@ -298,7 +298,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Neural Radiance Fields
 
-* [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) ⭐ 17,550 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02
+* [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) ⭐ 17,551 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02
 * [COLMAP](https://colmap.github.io/index.html)
 * ⭐️ **[nerfstudio](https://docs.nerf.studio/en/latest/index.html)**
 * [NerfAcc](https://www.nerfacc.com/en/latest/index.html)
@@ -392,7 +392,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Faces/People (restricted licenses)
 
-* [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) ⭐ 2,323 | 🐛 61 | 🌐 Python | 📅 2024-06-20
+* [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) ⭐ 2,324 | 🐛 61 | 🌐 Python | 📅 2024-06-20
 * [CelebA-Spoof](https://github.com/ZhangYuanhan-AI/CelebA-Spoof) ⭐ 628 | 🐛 6 | 🌐 Python | 📅 2021-02-26
 * [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
@@ -456,7 +456,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 
 * [Machine Learning for Art](https://ml4a.net/)
 * [Tools and Resources for AI Art (pharmapsychotic)](https://pharmapsychotic.com/tools.html) - Big list of Google Colab notebooks for generative text-to-image techniques as well as general tools and resources.
-* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,537 | 🐛 311 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
+* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,538 | 🐛 311 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
 
 ## Contributing
 
@@ -464,4 +464,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
