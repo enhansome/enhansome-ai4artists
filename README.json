@@ -148,7 +148,7 @@
                     "open_issues": 16,
                     "owner": "NVlabs",
                     "repo": "edm",
-                    "stars": 1996,
+                    "stars": 1997,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:19.583Z"
@@ -202,7 +202,7 @@
                 "open_issues": 201,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada-pytorch",
-                "stars": 4488,
+                "stars": 4487,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -495,7 +495,7 @@
                 "open_issues": 15,
                 "owner": "webtoon",
                 "repo": "matteformer",
-                "stars": 241,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -569,7 +569,7 @@
                 "open_issues": 53,
                 "owner": "NVlabs",
                 "repo": "imaginaire",
-                "stars": 4080,
+                "stars": 4079,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T16:24:24Z",
-                "open_issues": 2580,
+                "last_commit": "2026-09-20T14:40:00Z",
+                "open_issues": 2584,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36316,
+                "stars": 36317,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T04:00:38Z",
-                "open_issues": 1430,
+                "last_commit": "2026-09-20T08:38:38Z",
+                "open_issues": 1434,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34549,
+                "stars": 34552,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T04:02:00Z",
-                "open_issues": 1447,
+                "last_commit": "2026-09-20T10:03:53Z",
+                "open_issues": 1454,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43142,
+                "stars": 43145,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 619,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73448,
+                "stars": 73451,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -878,7 +878,7 @@
                 "open_issues": 2504,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165027,
+                "stars": 165042,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8203,
+                "stars": 8204,
                 "topics": [
                   "ai",
                   "blender",
@@ -1017,7 +1017,7 @@
                 "open_issues": 503,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17554,
+                "stars": 17557,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1155,7 +1155,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "CelebAMask-HQ",
-                "stars": 2323,
+                "stars": 2324,
                 "topics": [
                   "celeba",
                   "face-generation",
@@ -1182,7 +1182,7 @@
                 "open_issues": 6,
                 "owner": "ZhangYuanhan-AI",
                 "repo": "CelebA-Spoof",
-                "stars": 628,
+                "stars": 629,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:30:31.239Z",
+    "last_updated": "2026-09-20T19:40:12.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
