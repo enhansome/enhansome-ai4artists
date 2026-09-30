@@ -4,7 +4,7 @@
 
 > Resources at the intersection of AI *AND* Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
-For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,382 | 🐛 14 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,991 | 🐛 88 | 📅 2025-05-26 and <https://github.com/dair-ai>.
+For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,383 | 🐛 14 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,993 | 🐛 88 | 📅 2025-05-26 and <https://github.com/dair-ai>.
 
 ## Contents
 
@@ -199,7 +199,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### GAN inversion (and editing)
 
-* [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,116 | 🐛 64 | 🌐 HTML | 📅 2023-05-30
+* [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://github.com/orpatashnik/StyleCLIP) ⭐ 4,117 | 🐛 64 | 🌐 HTML | 📅 2023-05-30
 * [Designing an Encoder for StyleGAN Image Manipulation](https://github.com/omertov/encoder4editing) ⭐ 1,000 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2023-07-15
 * [Pivotal Tuning for Latent-based Editing of Real Images](https://github.com/danielroich/PTI) ⭐ 929 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2024-08-01
 * [Generative Visual Manipulation on the Natural Image Manifold (iGAN)](https://www.cs.cmu.edu/~junyanz/projects/gvm/)
@@ -254,8 +254,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Deep Learning Frameworks
 
-* [JAX](https://github.com/google/jax) ⭐ 36,363 | 🐛 2,618 | 🌐 Python | 📅 2026-09-29
-* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,633 | 🐛 1,462 | 🌐 Python | 📅 2026-09-29
+* [JAX](https://github.com/google/jax) ⭐ 36,366 | 🐛 2,613 | 🌐 Python | 📅 2026-09-30
+* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,636 | 🐛 1,462 | 🌐 Python | 📅 2026-09-30
 * ⭐️ **[PyTorch](https://pytorch.org/)**
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
@@ -265,7 +265,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Runtimes/Deployment
 
-* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 43,166 | 🐛 1,469 | 🌐 Python | 📅 2026-09-29
+* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 43,167 | 🐛 1,473 | 🌐 Python | 📅 2026-09-30
 * [AITemplate](https://github.com/facebookincubator/AITemplate) ⭐ 4,728 | 🐛 163 | 🌐 Python | 📅 2026-09-25
 * [FFCV: an Optimized Data Pipeline for Accelerating ML Training](https://ffcv.io)
 * [ONNX Runtime](https://onnxruntime.ai)
@@ -277,16 +277,16 @@ For a broader resource covering more general creative coding tools (that you mig
 ### Text-to-Image
 
 * ⭐️ **[Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,490 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18**
-* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,300 | 🐛 73 | 🌐 Python | 📅 2024-05-11
-* [Imagen](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,429 | 🐛 105 | 🌐 Python | 📅 2024-10-07
+* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,303 | 🐛 73 | 🌐 Python | 📅 2024-05-11
+* [Imagen](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,430 | 🐛 105 | 🌐 Python | 📅 2024-10-07
 * [Parti](https://github.com/google-research/parti) ⭐ 1,590 | 🐛 7 | 📅 2022-06-28
 * [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks) ⭐ 354 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-05-10
 * [Muse: Text-To-Image Generation via Masked Generative Transformers](https://muse-model.github.io): More efficient than diffusion or autoregressive text-to-image models used masked image modeling w/ transformers
 
 ### Stable Diffusion (SD)
 
-* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,152 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 165,152 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
-* [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,210 | 🐛 15 | 🌐 Python | 📅 2026-09-17: Plugin to render textures, reference images, and background with SD.
+* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,163 | 🐛 2,512 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 165,163 | 🐛 2,512 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
+* [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,211 | 🐛 15 | 🌐 Python | 📅 2026-09-17: Plugin to render textures, reference images, and background with SD.
 * [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ⭐ 2,113 | 🐛 209 | 🌐 Python | 📅 2025-06-30: Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio) ⭐ 475 | 🐛 15 | 🌐 TypeScript | 📅 2022-10-21: Animation focused frontend for SD.
 * [koi (Krita)](https://github.com/nousr/koi) ⭐ 438 | 🐛 17 | 🌐 HTML | 📅 2023-03-12: SD plugin for [Krita](https://krita.org/en/) for img2img generation.
@@ -456,7 +456,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 
 * [Machine Learning for Art](https://ml4a.net/)
 * [Tools and Resources for AI Art (pharmapsychotic)](https://pharmapsychotic.com/tools.html) - Big list of Google Colab notebooks for generative text-to-image techniques as well as general tools and resources.
-* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,546 | 🐛 332 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
+* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,546 | 🐛 333 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
 
 ## Contributing
 
@@ -464,4 +464,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
