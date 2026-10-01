@@ -4,7 +4,7 @@
 
 > Resources at the intersection of AI *AND* Art. Mainly tools and tutorials but also with some inspiring people and places thrown in too!
 
-For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,383 | 🐛 14 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,993 | 🐛 88 | 📅 2025-05-26 and <https://github.com/dair-ai>.
+For a broader resource covering more general creative coding tools (that you might want to use with what is listed here), check out [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,386 | 🐛 13 | 🌐 HTML | 📅 2026-07-21 or [thatcreativecode.page](https://thatcreativecode.page/). For resources on AI and deep learning in general, check out [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,997 | 🐛 88 | 📅 2025-05-26 and <https://github.com/dair-ai>.
 
 ## Contents
 
@@ -223,8 +223,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Image Matting
 
-* [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) ⭐ 9,539 | 🐛 124 | 🌐 Python | 📅 2024-04-02
-* [MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition](https://github.com/ZHKKKe/MODNet) ⭐ 4,374 | 🐛 71 | 🌐 Python | 📅 2024-05-06
+* [Robust Video Matting](https://github.com/PeterL1n/RobustVideoMatting) ⭐ 9,543 | 🐛 124 | 🌐 Python | 📅 2024-04-02
+* [MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition](https://github.com/ZHKKKe/MODNet) ⭐ 4,375 | 🐛 71 | 🌐 Python | 📅 2024-05-06
 * [MatteFormer](https://github.com/webtoon/matteformer) ⭐ 240 | 🐛 15 | 🌐 Python | 📅 2023-10-03
 * [Deep Image Matting](https://arxiv.org/pdf/1703.03872v3.pdf)
 * [Background Matting: The World is Your Green Screen](https://arxiv.org/pdf/2004.00626v2.pdf)
@@ -254,8 +254,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Deep Learning Frameworks
 
-* [JAX](https://github.com/google/jax) ⭐ 36,366 | 🐛 2,613 | 🌐 Python | 📅 2026-09-30
-* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,636 | 🐛 1,462 | 🌐 Python | 📅 2026-09-30
+* [JAX](https://github.com/google/jax) ⭐ 36,370 | 🐛 2,635 | 🌐 Python | 📅 2026-10-01
+* [🤗 Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,639 | 🐛 1,457 | 🌐 Python | 📅 2026-10-01
 * ⭐️ **[PyTorch](https://pytorch.org/)**
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
@@ -265,7 +265,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Runtimes/Deployment
 
-* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 43,167 | 🐛 1,473 | 🌐 Python | 📅 2026-09-30
+* [DeepSpeed (training, inference, compression)](https://github.com/microsoft/DeepSpeed) ⭐ 43,173 | 🐛 1,488 | 🌐 Python | 📅 2026-10-01
 * [AITemplate](https://github.com/facebookincubator/AITemplate) ⭐ 4,728 | 🐛 163 | 🌐 Python | 📅 2026-09-25
 * [FFCV: an Optimized Data Pipeline for Accelerating ML Training](https://ffcv.io)
 * [ONNX Runtime](https://onnxruntime.ai)
@@ -276,8 +276,8 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Text-to-Image
 
-* ⭐️ **[Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,490 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18**
-* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,303 | 🐛 73 | 🌐 Python | 📅 2024-05-11
+* ⭐️ **[Stable Diffusion](https://github.com/CompVis/stable-diffusion) ⭐ 73,489 | 🐛 619 | 🌐 Jupyter Notebook | 📅 2024-06-18**
+* [DALLE 2](https://github.com/lucidrains/DALLE2-pytorch) ⭐ 11,302 | 🐛 73 | 🌐 Python | 📅 2024-05-11
 * [Imagen](https://github.com/lucidrains/imagen-pytorch) ⭐ 8,430 | 🐛 105 | 🌐 Python | 📅 2024-10-07
 * [Parti](https://github.com/google-research/parti) ⭐ 1,590 | 🐛 7 | 📅 2022-06-28
 * [VQGAN+CLIP](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks) ⭐ 354 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-05-10
@@ -285,9 +285,9 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Stable Diffusion (SD)
 
-* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,163 | 🐛 2,512 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 165,163 | 🐛 2,512 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
+* ⭐️ **[Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ⭐ 165,177 | 🐛 2,511 | 🌐 Python | 📅 2026-03-02**: A user friendly UI for SD with additional [features](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features) ⭐ 165,177 | 🐛 2,511 | 🌐 Python | 📅 2026-03-02 to make common workflows easy.
 * [Dream Textures (Blender)](https://github.com/carson-katri/dream-textures) ⭐ 8,211 | 🐛 15 | 🌐 Python | 📅 2026-09-17: Plugin to render textures, reference images, and background with SD.
-* [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ⭐ 2,113 | 🐛 209 | 🌐 Python | 📅 2025-06-30: Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
+* [DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) ⭐ 2,114 | 🐛 209 | 🌐 Python | 📅 2025-06-30: Low-latency and high-throughput inference for a variety (20,000+) models/tasks, including SD.
 * [Stable Diffusion Studio](https://github.com/amotile/stable-diffusion-studio) ⭐ 475 | 🐛 15 | 🌐 TypeScript | 📅 2022-10-21: Animation focused frontend for SD.
 * [koi (Krita)](https://github.com/nousr/koi) ⭐ 438 | 🐛 17 | 🌐 HTML | 📅 2023-03-12: SD plugin for [Krita](https://krita.org/en/) for img2img generation.
 * [Dream Studio](https://beta.dreamstudio.ai/): Official [Stability AI](https://stability.ai) cloud hosted service.
@@ -298,7 +298,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Neural Radiance Fields
 
-* [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) ⭐ 17,565 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02
+* [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) ⭐ 17,566 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02
 * [COLMAP](https://colmap.github.io/index.html)
 * ⭐️ **[nerfstudio](https://docs.nerf.studio/en/latest/index.html)**
 * [NerfAcc](https://www.nerfacc.com/en/latest/index.html)
@@ -362,7 +362,7 @@ For a broader resource covering more general creative coding tools (that you mig
 * [Stanford Online Products dataset](https://github.com/rksltnl/Deep-Metric-Learning-CVPR16?tab=readme-ov-file#stanford-online-products-dataset) ⭐ 347 | 🐛 4 | 🌐 MATLAB | 📅 2019-09-15
 * [LAION-Face](https://github.com/FacePerceiver/LAION-Face) ⭐ 319 | 🐛 5 | 🌐 Python | 📅 2023-02-01
 * [LAION Datasets](https://github.com/LAION-AI/laion-datasets) ⭐ 257 | 🐛 8 | 🌐 HTML | 📅 2022-11-05: Various very large scale image-text pairs datasets (notably used to train the open source [Stable Diffusion](https://stability.ai) models).
-* [DeepMind 3d Shapes](https://github.com/google-deepmind/3d-shapes/tree/master) ⭐ 161 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-03-17
+* [DeepMind 3d Shapes](https://github.com/google-deepmind/3d-shapes/tree/master) ⭐ 160 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-03-17
 * [Unsplash Images](https://unsplash.com/data)
 * [Pixabay](https://pixabay.com/service/about/api/)
 * [Pexels](https://www.pexels.com/api/)
@@ -392,7 +392,7 @@ For a broader resource covering more general creative coding tools (that you mig
 
 ### Faces/People (restricted licenses)
 
-* [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) ⭐ 2,328 | 🐛 61 | 🌐 Python | 📅 2024-06-20
+* [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) ⭐ 2,329 | 🐛 61 | 🌐 Python | 📅 2024-06-20
 * [CelebA-Spoof](https://github.com/ZhangYuanhan-AI/CelebA-Spoof) ⭐ 629 | 🐛 6 | 🌐 Python | 📅 2021-02-26
 * [Labeled Faces in the Wild (LFW)](http://vis-www.cs.umass.edu/lfw/)
 * [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
@@ -456,7 +456,7 @@ A non-exhaustive list of people doing interesting things at the intersection of 
 
 * [Machine Learning for Art](https://ml4a.net/)
 * [Tools and Resources for AI Art (pharmapsychotic)](https://pharmapsychotic.com/tools.html) - Big list of Google Colab notebooks for generative text-to-image techniques as well as general tools and resources.
-* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,546 | 🐛 333 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
+* [Awesome Generative Deep Art](https://github.com/filipecalegario/awesome-generative-deep-art/blob/main/README.md) ⭐ 3,546 | 🐛 336 | 📅 2025-12-18 - A curated list of Generative Deep Art / Generative AI projects, tools, artworks, and models
 
 ## Contributing
 
@@ -464,4 +464,4 @@ Contributions are welcome! Read the [contribution guidelines](contributing.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
