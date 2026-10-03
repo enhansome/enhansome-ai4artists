@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "Machine Learning for the Web (ITP/NYU)",
-                  "description": null,
+                  "description": "yining1023/machine-learning-for-the-web",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -42,7 +42,7 @@
                     {
                       "node_type": "item",
                       "title": "Code course",
-                      "description": null,
+                      "description": "ITPNYU/ICM-2022-Code",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -63,7 +63,7 @@
                     {
                       "node_type": "item",
                       "title": "Media course",
-                      "description": null,
+                      "description": "ITPNYU/ICM-2022-Media",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -100,7 +100,7 @@
                 {
                   "node_type": "item",
                   "title": "Generative Examples in Processing",
-                  "description": null,
+                  "description": "digitalcoleman/generativeExamples",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -135,7 +135,7 @@
                 {
                   "node_type": "item",
                   "title": "Elucidating the Design Space of Diffusion-Based Generative Models (EDM)",
-                  "description": null,
+                  "description": "NVlabs/edm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -168,7 +168,7 @@
             {
               "node_type": "item",
               "title": "Alias-Free Generative Adversarial Networks (StyleGAN3)",
-              "description": null,
+              "description": "NVlabs/stylegan3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "Training Generative Adversarial Networks with Limited Data (StyleGAN2-ADA)",
-              "description": null,
+              "description": "NVlabs/stylegan2-ada-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -217,7 +217,7 @@
             {
               "node_type": "item",
               "title": "Semantic Image Synthesis with Spatially-Adaptive Normalization (SPADE)",
-              "description": null,
+              "description": "NVlabs/SPADE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -238,7 +238,7 @@
             {
               "node_type": "item",
               "title": "MIC: Masked Image Consistency for Context-Enhanced Domain Adaptation",
-              "description": null,
+              "description": "lhoyer/MIC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -259,7 +259,7 @@
             {
               "node_type": "item",
               "title": "HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation",
-              "description": null,
+              "description": "lhoyer/HRDA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -294,7 +294,7 @@
             {
               "node_type": "item",
               "title": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery",
-              "description": null,
+              "description": "orpatashnik/StyleCLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -315,7 +315,7 @@
             {
               "node_type": "item",
               "title": "Designing an Encoder for StyleGAN Image Manipulation",
-              "description": null,
+              "description": "omertov/encoder4editing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -342,7 +342,7 @@
             {
               "node_type": "item",
               "title": "Pivotal Tuning for Latent-based Editing of Real Images",
-              "description": null,
+              "description": "danielroich/PTI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "⭐️ Discovering Interpretable GAN Controls (GANspace)",
-              "description": null,
+              "description": "harskish/ganspace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -404,7 +404,7 @@
             {
               "node_type": "item",
               "title": "Unsupervised Extraction of StyleGAN Edit Directions (CLIP2StyleGAN)",
-              "description": null,
+              "description": "RameenAbdal/CLIP2StyleGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -432,7 +432,7 @@
             {
               "node_type": "item",
               "title": "Robust Video Matting",
-              "description": null,
+              "description": "PeterL1n/RobustVideoMatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -459,7 +459,7 @@
             {
               "node_type": "item",
               "title": "MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition",
-              "description": null,
+              "description": "ZHKKKe/MODNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -482,7 +482,7 @@
             {
               "node_type": "item",
               "title": "MatteFormer",
-              "description": null,
+              "description": "webtoon/matteformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -516,7 +516,7 @@
             {
               "node_type": "item",
               "title": "PaddleGAN",
-              "description": null,
+              "description": "PaddlePaddle/PaddleGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -577,7 +577,7 @@
             {
               "node_type": "item",
               "title": "mmgeneration",
-              "description": null,
+              "description": "open-mmlab/mmgeneration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -613,7 +613,7 @@
             {
               "node_type": "item",
               "title": "JAX",
-              "description": null,
+              "description": "jax-ml/jax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:11:43Z",
-                "open_issues": 2629,
+                "last_commit": "2026-10-03T04:09:09Z",
+                "open_issues": 2628,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36369,
+                "stars": 36370,
                 "topics": [
                   "jax"
                 ]
@@ -636,7 +636,7 @@
             {
               "node_type": "item",
               "title": "🤗 Diffusers",
-              "description": null,
+              "description": "huggingface/diffusers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:49:42Z",
+                "last_commit": "2026-10-02T23:59:24Z",
                 "open_issues": 1454,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34640,
+                "stars": 34643,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -680,7 +680,7 @@
             {
               "node_type": "item",
               "title": "DeepSpeed (training, inference, compression)",
-              "description": null,
+              "description": "deepspeedai/DeepSpeed",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:00:24Z",
+                "last_commit": "2026-10-03T01:02:16Z",
                 "open_issues": 1487,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43172,
+                "stars": 43175,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -715,7 +715,7 @@
             {
               "node_type": "item",
               "title": "AITemplate",
-              "description": null,
+              "description": "facebookincubator/AITemplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -725,7 +725,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T18:00:38Z",
-                "open_issues": 164,
+                "open_issues": 163,
                 "owner": "facebookincubator",
                 "repo": "AITemplate",
                 "stars": 4728,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "⭐️ Stable Diffusion",
-              "description": null,
+              "description": "CompVis/stable-diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -756,7 +756,7 @@
                 "open_issues": 619,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73492,
+                "stars": 73494,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "DALLE 2",
-              "description": null,
+              "description": "lucidrains/DALLE2-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -789,7 +789,7 @@
             {
               "node_type": "item",
               "title": "Imagen",
-              "description": null,
+              "description": "lucidrains/imagen-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -816,7 +816,7 @@
             {
               "node_type": "item",
               "title": "Parti",
-              "description": null,
+              "description": "google-research/parti",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -837,7 +837,7 @@
             {
               "node_type": "item",
               "title": "VQGAN+CLIP",
-              "description": null,
+              "description": "EleutherAI/vqgan-clip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -878,7 +878,7 @@
                 "open_issues": 2511,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165180,
+                "stars": 165182,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -1004,7 +1004,7 @@
             {
               "node_type": "item",
               "title": "NVlabs/instant-ngp",
-              "description": null,
+              "description": "NVlabs/instant-ngp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1051,7 +1051,7 @@
             {
               "node_type": "item",
               "title": "Stanford Online Products dataset",
-              "description": null,
+              "description": "rksltnl/Deep-Metric-Learning-CVPR16",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "LAION-Face",
-              "description": null,
+              "description": "FacePerceiver/LAION-Face",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1114,7 +1114,7 @@
             {
               "node_type": "item",
               "title": "DeepMind 3d Shapes",
-              "description": null,
+              "description": "google-deepmind/3d-shapes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1142,7 +1142,7 @@
             {
               "node_type": "item",
               "title": "CelebAMask-HQ",
-              "description": null,
+              "description": "switchablenorms/CelebAMask-HQ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,7 +1169,7 @@
             {
               "node_type": "item",
               "title": "CelebA-Spoof",
-              "description": null,
+              "description": "ZhangYuanhan-AI/CelebA-Spoof",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1197,7 +1197,7 @@
             {
               "node_type": "item",
               "title": "Brutus Light Field",
-              "description": null,
+              "description": "nathan-fairchild/Brutus-Light-Fields",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:25:12.661Z",
+    "last_updated": "2026-10-03T04:32:23.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
