@@ -328,7 +328,7 @@
                 "open_issues": 28,
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 1000,
+                "stars": 999,
                 "topics": [
                   "encoder",
                   "siggraph2021",
@@ -529,7 +529,7 @@
                 "open_issues": 131,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleGAN",
-                "stars": 8044,
+                "stars": 8045,
                 "topics": [
                   "animeganv2",
                   "basicvsrplusplus",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T21:48:14Z",
-                "open_issues": 2614,
+                "last_commit": "2026-10-07T21:55:39Z",
+                "open_issues": 2621,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36379,
+                "stars": 36381,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T20:02:37Z",
-                "open_issues": 1471,
+                "last_commit": "2026-10-07T15:04:42Z",
+                "open_issues": 1474,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34673,
+                "stars": 34684,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T19:03:52Z",
-                "open_issues": 1513,
+                "last_commit": "2026-10-07T21:28:56Z",
+                "open_issues": 1517,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43200,
+                "stars": 43206,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -724,8 +724,8 @@
                 "id": 514321895,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T21:48:32Z",
-                "open_issues": 165,
+                "last_commit": "2026-10-07T02:47:18Z",
+                "open_issues": 163,
                 "owner": "facebookincubator",
                 "repo": "AITemplate",
                 "stars": 4729,
@@ -756,7 +756,7 @@
                 "open_issues": 620,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73493,
+                "stars": 73489,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -875,10 +875,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T07:00:53Z",
-                "open_issues": 2511,
+                "open_issues": 2510,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165199,
+                "stars": 165209,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8210,
+                "stars": 8212,
                 "topics": [
                   "ai",
                   "blender",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:49:15.818Z",
+    "last_updated": "2026-10-07T22:12:04.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
