@@ -445,7 +445,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9551,
+                "stars": 9550,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -472,7 +472,7 @@
                 "open_issues": 71,
                 "owner": "ZHKKKe",
                 "repo": "MODNet",
-                "stars": 4378,
+                "stars": 4380,
                 "topics": [
                   "portrait-matting"
                 ]
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T18:41:49Z",
-                "open_issues": 2591,
+                "last_commit": "2026-10-11T20:59:48Z",
+                "open_issues": 2594,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36404,
+                "stars": 36406,
                 "topics": [
                   "jax"
                 ]
@@ -646,7 +646,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T18:40:13Z",
-                "open_issues": 1469,
+                "open_issues": 1470,
                 "owner": "huggingface",
                 "repo": "diffusers",
                 "stars": 34701,
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T20:21:39Z",
-                "open_issues": 1521,
+                "last_commit": "2026-10-11T17:14:22Z",
+                "open_issues": 1520,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43218,
+                "stars": 43217,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 620,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73485,
+                "stars": 73486,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -916,7 +916,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8213,
+                "stars": 8214,
                 "topics": [
                   "ai",
                   "blender",
@@ -1017,7 +1017,7 @@
                 "open_issues": 503,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17568,
+                "stars": 17570,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:39:01.456Z",
+    "last_updated": "2026-10-11T21:02:35.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
