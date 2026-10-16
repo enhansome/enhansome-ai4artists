@@ -202,7 +202,7 @@
                 "open_issues": 201,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada-pytorch",
-                "stars": 4493,
+                "stars": 4494,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -389,7 +389,7 @@
                 "open_issues": 29,
                 "owner": "harskish",
                 "repo": "ganspace",
-                "stars": 1796,
+                "stars": 1795,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -445,7 +445,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9559,
+                "stars": 9560,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -529,7 +529,7 @@
                 "open_issues": 131,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleGAN",
-                "stars": 8043,
+                "stars": 8042,
                 "topics": [
                   "animeganv2",
                   "basicvsrplusplus",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T20:16:57Z",
-                "open_issues": 2543,
+                "last_commit": "2026-10-16T19:58:42Z",
+                "open_issues": 2565,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36444,
+                "stars": 36452,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T16:33:29Z",
-                "open_issues": 1490,
+                "last_commit": "2026-10-16T09:47:17Z",
+                "open_issues": 1500,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34728,
+                "stars": 34734,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T18:23:15Z",
-                "open_issues": 1527,
+                "last_commit": "2026-10-16T11:55:59Z",
+                "open_issues": 1535,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43231,
+                "stars": 43238,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -777,7 +777,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11303,
+                "stars": 11302,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -802,7 +802,7 @@
                 "open_issues": 105,
                 "owner": "lucidrains",
                 "repo": "imagen-pytorch",
-                "stars": 8431,
+                "stars": 8430,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -878,7 +878,7 @@
                 "open_issues": 2510,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165059,
+                "stars": 165072,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8221,
+                "stars": 8222,
                 "topics": [
                   "ai",
                   "blender",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:28:52.820Z",
+    "last_updated": "2026-10-16T20:01:18.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
