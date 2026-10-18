@@ -148,7 +148,7 @@
                     "open_issues": 16,
                     "owner": "NVlabs",
                     "repo": "edm",
-                    "stars": 2003,
+                    "stars": 2002,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:19.583Z"
@@ -181,7 +181,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6945,
+                "stars": 6946,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -230,7 +230,7 @@
                 "open_issues": 100,
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7718,
+                "stars": 7717,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -445,7 +445,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9561,
+                "stars": 9562,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T19:24:59Z",
-                "open_issues": 2571,
+                "last_commit": "2026-10-18T18:39:35Z",
+                "open_issues": 2572,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36458,
+                "stars": 36463,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T23:34:13Z",
-                "open_issues": 1501,
+                "last_commit": "2026-10-18T10:35:26Z",
+                "open_issues": 1504,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34745,
+                "stars": 34752,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T15:28:57Z",
-                "open_issues": 1532,
+                "last_commit": "2026-10-18T11:07:50Z",
+                "open_issues": 1533,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43238,
+                "stars": 43242,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 620,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73527,
+                "stars": 73531,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -850,7 +850,7 @@
                 "open_issues": 7,
                 "owner": "EleutherAI",
                 "repo": "vqgan-clip",
-                "stars": 354,
+                "stars": 353,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -875,10 +875,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T07:00:53Z",
-                "open_issues": 2510,
+                "open_issues": 2511,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165071,
+                "stars": 165076,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:38:19.852Z",
+    "last_updated": "2026-10-18T19:33:11.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
