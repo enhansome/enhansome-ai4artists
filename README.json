@@ -181,7 +181,7 @@
                 "open_issues": 191,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6946,
+                "stars": 6947,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -445,7 +445,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9565,
+                "stars": 9566,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T20:40:27Z",
-                "open_issues": 2569,
+                "last_commit": "2026-10-23T20:34:56Z",
+                "open_issues": 2557,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36484,
+                "stars": 36489,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T17:22:30Z",
-                "open_issues": 1509,
+                "last_commit": "2026-10-23T15:28:49Z",
+                "open_issues": 1516,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34778,
+                "stars": 34785,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T16:22:53Z",
-                "open_issues": 1549,
+                "last_commit": "2026-10-23T18:06:02Z",
+                "open_issues": 1554,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43252,
+                "stars": 43260,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 620,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73532,
+                "stars": 73536,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -875,10 +875,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T07:00:53Z",
-                "open_issues": 2512,
+                "open_issues": 2511,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165100,
+                "stars": 165126,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8227,
+                "stars": 8229,
                 "topics": [
                   "ai",
                   "blender",
@@ -943,7 +943,7 @@
                 "open_issues": 210,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed-MII",
-                "stars": 2115,
+                "stars": 2116,
                 "topics": [
                   "deep-learning",
                   "inference",
@@ -989,7 +989,7 @@
                 "open_issues": 17,
                 "owner": "nousr",
                 "repo": "koi",
-                "stars": 438,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -1017,7 +1017,7 @@
                 "open_issues": 504,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17580,
+                "stars": 17579,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:43:12.527Z",
+    "last_updated": "2026-10-23T20:35:39.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
