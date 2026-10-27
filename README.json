@@ -202,7 +202,7 @@
                 "open_issues": 201,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada-pytorch",
-                "stars": 4496,
+                "stars": 4494,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -328,7 +328,7 @@
                 "open_issues": 28,
                 "owner": "omertov",
                 "repo": "encoder4editing",
-                "stars": 1000,
+                "stars": 999,
                 "topics": [
                   "encoder",
                   "siggraph2021",
@@ -355,7 +355,7 @@
                 "open_issues": 22,
                 "owner": "danielroich",
                 "repo": "PTI",
-                "stars": 929,
+                "stars": 928,
                 "topics": [
                   "gan-inversion",
                   "generative-adversarial-network",
@@ -445,7 +445,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9571,
+                "stars": 9572,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -529,7 +529,7 @@
                 "open_issues": 131,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleGAN",
-                "stars": 8044,
+                "stars": 8045,
                 "topics": [
                   "animeganv2",
                   "basicvsrplusplus",
@@ -569,7 +569,7 @@
                 "open_issues": 52,
                 "owner": "NVlabs",
                 "repo": "imaginaire",
-                "stars": 4081,
+                "stars": 4080,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T21:42:54Z",
-                "open_issues": 2553,
+                "last_commit": "2026-10-27T21:22:27Z",
+                "open_issues": 2564,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36503,
+                "stars": 36511,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T19:43:02Z",
-                "open_issues": 1525,
+                "last_commit": "2026-10-27T08:51:21Z",
+                "open_issues": 1526,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34818,
+                "stars": 34819,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T15:26:22Z",
-                "open_issues": 1573,
+                "last_commit": "2026-10-27T17:40:06Z",
+                "open_issues": 1574,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43277,
+                "stars": 43269,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 620,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73542,
+                "stars": 73545,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -777,7 +777,7 @@
                 "open_issues": 73,
                 "owner": "lucidrains",
                 "repo": "DALLE2-pytorch",
-                "stars": 11305,
+                "stars": 11304,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -802,7 +802,7 @@
                 "open_issues": 105,
                 "owner": "lucidrains",
                 "repo": "imagen-pytorch",
-                "stars": 8433,
+                "stars": 8431,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -875,10 +875,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-03-02T07:00:53Z",
-                "open_issues": 2511,
+                "open_issues": 2510,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165150,
+                "stars": 165161,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8230,
+                "stars": 8232,
                 "topics": [
                   "ai",
                   "blender",
@@ -1017,7 +1017,7 @@
                 "open_issues": 504,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17582,
+                "stars": 17583,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1085,7 +1085,7 @@
                 "open_issues": 5,
                 "owner": "FacePerceiver",
                 "repo": "LAION-Face",
-                "stars": 319,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:46:44.990Z",
+    "last_updated": "2026-10-27T21:26:48.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
@@ -1234,7 +1234,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-06-21T19:24:41Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "jonathandinu",
       "repo": "ai4artists",
       "stars": 364,
