@@ -148,7 +148,7 @@
                     "open_issues": 16,
                     "owner": "NVlabs",
                     "repo": "edm",
-                    "stars": 2005,
+                    "stars": 2008,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:06:19.583Z"
@@ -230,7 +230,7 @@
                 "open_issues": 100,
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7718,
+                "stars": 7717,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -445,7 +445,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9575,
+                "stars": 9577,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -590,7 +590,7 @@
                 "open_issues": 54,
                 "owner": "open-mmlab",
                 "repo": "mmgeneration",
-                "stars": 2009,
+                "stars": 2010,
                 "topics": [
                   "diffusion-models",
                   "gan",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T21:26:48Z",
-                "open_issues": 2578,
+                "last_commit": "2026-10-29T21:51:44Z",
+                "open_issues": 2576,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36518,
+                "stars": 36524,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T16:40:15Z",
-                "open_issues": 1527,
+                "last_commit": "2026-10-29T21:43:29Z",
+                "open_issues": 1532,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34824,
+                "stars": 34832,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T20:40:23Z",
-                "open_issues": 1580,
+                "last_commit": "2026-10-29T16:58:27Z",
+                "open_issues": 1581,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43271,
+                "stars": 43270,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 620,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73549,
+                "stars": 73555,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -878,7 +878,7 @@
                 "open_issues": 2510,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165171,
+                "stars": 165179,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -1017,7 +1017,7 @@
                 "open_issues": 504,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17584,
+                "stars": 17583,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:50:54.531Z",
+    "last_updated": "2026-10-29T21:56:58.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
