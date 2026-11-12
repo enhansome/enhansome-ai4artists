@@ -181,7 +181,7 @@
                 "open_issues": 191,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6944,
+                "stars": 6943,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -202,7 +202,7 @@
                 "open_issues": 201,
                 "owner": "NVlabs",
                 "repo": "stylegan2-ada-pytorch",
-                "stars": 4492,
+                "stars": 4490,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -230,7 +230,7 @@
                 "open_issues": 100,
                 "owner": "NVlabs",
                 "repo": "SPADE",
-                "stars": 7720,
+                "stars": 7719,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -251,7 +251,7 @@
                 "open_issues": 23,
                 "owner": "lhoyer",
                 "repo": "MIC",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -307,7 +307,7 @@
                 "open_issues": 64,
                 "owner": "orpatashnik",
                 "repo": "StyleCLIP",
-                "stars": 4115,
+                "stars": 4117,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -445,7 +445,7 @@
                 "open_issues": 124,
                 "owner": "PeterL1n",
                 "repo": "RobustVideoMatting",
-                "stars": 9593,
+                "stars": 9598,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -529,7 +529,7 @@
                 "open_issues": 131,
                 "owner": "PaddlePaddle",
                 "repo": "PaddleGAN",
-                "stars": 8040,
+                "stars": 8039,
                 "topics": [
                   "animeganv2",
                   "basicvsrplusplus",
@@ -622,11 +622,11 @@
                 "id": 154739597,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T23:33:22Z",
-                "open_issues": 2581,
+                "last_commit": "2026-11-12T22:47:20Z",
+                "open_issues": 2585,
                 "owner": "jax-ml",
                 "repo": "jax",
-                "stars": 36614,
+                "stars": 36618,
                 "topics": [
                   "jax"
                 ]
@@ -645,11 +645,11 @@
                 "id": 498011141,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T12:47:12Z",
-                "open_issues": 1567,
+                "last_commit": "2026-11-12T19:31:04Z",
+                "open_issues": 1579,
                 "owner": "huggingface",
                 "repo": "diffusers",
-                "stars": 34910,
+                "stars": 34914,
                 "topics": [
                   "deep-learning",
                   "diffusion",
@@ -689,11 +689,11 @@
                 "id": 235860204,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T23:37:10Z",
+                "last_commit": "2026-11-12T22:37:11Z",
                 "open_issues": 1602,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43323,
+                "stars": 43327,
                 "topics": [
                   "billion-parameters",
                   "compression",
@@ -756,7 +756,7 @@
                 "open_issues": 619,
                 "owner": "CompVis",
                 "repo": "stable-diffusion",
-                "stars": 73574,
+                "stars": 73573,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -802,7 +802,7 @@
                 "open_issues": 105,
                 "owner": "lucidrains",
                 "repo": "imagen-pytorch",
-                "stars": 8432,
+                "stars": 8431,
                 "topics": [
                   "artificial-intelligence",
                   "deep-learning",
@@ -878,7 +878,7 @@
                 "open_issues": 2512,
                 "owner": "AUTOMATIC1111",
                 "repo": "stable-diffusion-webui",
-                "stars": 165287,
+                "stars": 165305,
                 "topics": [
                   "ai",
                   "ai-art",
@@ -916,7 +916,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8242,
+                "stars": 8246,
                 "topics": [
                   "ai",
                   "blender",
@@ -1017,7 +1017,7 @@
                 "open_issues": 507,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17595,
+                "stars": 17596,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -1124,10 +1124,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2024-03-17T20:34:31Z",
-                "open_issues": 3,
+                "open_issues": 5,
                 "owner": "google-deepmind",
                 "repo": "3d-shapes",
-                "stars": 161,
+                "stars": 162,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:06:19.583Z"
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:37:50.839Z",
+    "last_updated": "2026-11-12T22:49:59.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of AI Art courses, tools, libraries, people, and places.",
